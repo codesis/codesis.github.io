@@ -3,6 +3,7 @@ layout: post
 title:  "A day well spent"
 date:   2018-11-26 01:00:00 -0600
 categories: jekyll update
+comments: true
 ---
 
 *Hello!*
