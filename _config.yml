@@ -18,11 +18,11 @@ email: ek222re@student.lnu.se
 description: >- # this means to ignore newlines until "baseurl:"
   Välkommen till min sida! Här presenteras mina examinationsuppgifter,
   ett par blogginlägg och en möjlighet för dig att kommentera och diskutera
-  på min sida.
+  på min sida. Blogposts will be written in english.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
 github_username:  codesis
+instagram_username: emmasenkla
 
 # Build settings
 markdown: kramdown
