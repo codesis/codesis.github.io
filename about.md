@@ -6,7 +6,7 @@ permalink: /about/
 
 Hej! 
 
-![Image of myself](https://github.com/codesis/codesis.github.io/blob/master/selfie.jpg?raw=true =200x)
+<img src="https://github.com/codesis/codesis.github.io/blob/master/selfie.jpg?raw=true" alt="selfie" width="400"/>
 
 Jag heter Emma Källström och är 24 år gammal. Bor i Snurrom i Kalmar med min sambo, vår 1.5 åriga son och våra husdjur. Något jag tycker om att göra är att spela tv-spel (Playstation), ett favoritspel just nu är Red Dead Redemption 2 som jag försöker hålla länge på så jag inte kör färdigt storyn för fort. 
 
