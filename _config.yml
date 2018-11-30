@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Emma Källström
+title: Codesis
 email: ek222re@student.lnu.se
 description: >- # this means to ignore newlines until "baseurl:"
-  Välkommen till min sida! Här presenteras mina examinationsuppgifter,
+  Välkommen till min sida! Jag heter Emma Källström och här presenteras mina examinationsuppgifter,
   ett par blogginlägg och en möjlighet för dig att kommentera och diskutera
   på min sida. Blogposts will be written in english.
 baseurl: "" # the subpath of your site, e.g. /blog

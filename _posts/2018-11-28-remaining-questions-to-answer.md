@@ -41,7 +41,7 @@ I chose to use SCSS, which is sassy CSS. Sass itself stands for *Syntactically A
 
 Other than what I've already said, saving time and headaches, pros could as well be such as it is easy to learn and use. You could say it simplifies complex CSS code. 
 
-Cons with using CSS preprocessors are for an instance that debugging becomes harder. As we compile our code with preprocessors, it is not as obvious where the bugs are if there is some. To help with this, we should use source maps.
+Cons with using CSS preprocessors are for an instance that debugging becomes harder. As we compile our code with preprocessors, it is not as obvious where the bugs are if there are some. To help with this, we should use source maps.
 
 #### **Open Graph**
 \- ***What is Open Graph and how do I make use of it?***
