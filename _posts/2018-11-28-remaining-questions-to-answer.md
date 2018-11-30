@@ -41,4 +41,11 @@ I chose to use SCSS, which is sassy CSS. Sass itself stands for *Syntactically A
 
 Other than what I've already said, saving time and headaches, pros could as well be such as it is easy to learn and use. You could say it simplifies complex CSS code. 
 
-Cons 
+Cons with using CSS preprocessors are for an instance that debugging becomes harder. As we compile our code with preprocessors, it is not as obvious where the bugs are if there is some. To help with this, we should use source maps.
+
+#### **Open Graph**
+\- ***What is Open Graph and how do I make use of it?***
+
+Open Graph is a protocol which makes a site easy to share with the same functionality as other objects. For an instance, when different websites are shared of Facebook they are all "treated" the same way, having the same functionality. That is thanks to Open Graph.
+
+Four properties are required for the Open Graph, these are Title, Url, Image and Type. Beside those there are more properties one can, or should depending on what kind of type we have, add to the meta tag. These meta tags are added to the head of our webpage. My *head* are in the folder _includes.
