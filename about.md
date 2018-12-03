@@ -4,9 +4,9 @@ title: Om mig
 permalink: /about/
 ---
 
-<img src="https://github.com/codesis/codesis.github.io/blob/master/selfie.jpg?raw=true" alt="selfie" width="200"/>
+Hej!
+<img src="https://github.com/codesis/codesis.github.io/blob/master/selfie.jpg?raw=true" alt="selfie" width="150"/>
 
-Hej! 
 
 Jag heter Emma och är 24 år gammal. Bor i Snurrom i Kalmar med min sambo, vår 1.5 åriga son och våra husdjur. Något jag tycker om att göra är att spela tv-spel (Playstation), ett favoritspel just nu är Red Dead Redemption 2 som jag försöker hålla länge på så jag inte kör färdigt storyn för fort. 
 
