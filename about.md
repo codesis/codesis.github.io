@@ -4,10 +4,14 @@ title: Om mig
 permalink: /about/
 ---
 
-Hej!
+Hi!
 <img src="https://github.com/codesis/codesis.github.io/blob/master/selfie.jpg?raw=true" alt="selfie" width="150"/>
 
 
-Jag heter Emma och är 24 år gammal. Bor i Snurrom i Kalmar med min sambo, vår 1.5 åriga son och våra husdjur. Något jag tycker om att göra är att spela tv-spel (Playstation), ett favoritspel just nu är Red Dead Redemption 2 som jag försöker hålla länge på så jag inte kör färdigt storyn för fort. 
+My name is Emma Källström and I'm a 26 year old living in Kalmar, Sweden.
 
-Var väl novis på javascript när jag började WP (och är nog fortfarande) men har när jag var yngre lekt lite med html och css. Tycker det är galet roligt att koda i alla fall!
+In August 2018 I began studying at Linnaeus University in Kalmar, taking courses in computer science and media technology.
+I've read courses in languages such as JavaScript, PHP and C#. Feeling confident with JS, NodeJS, PHP, Git, HTML, CSS. 
+Getting more and more confident with React and GatsbyJS as I am currently coding with it. Would like to get more confident with C#.
+
+Worked frontend, backend as well as fullstack. Enjoying all kinds.
