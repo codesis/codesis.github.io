@@ -14,11 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Codesis
-email: ek222re@student.lnu.se
+email: emma.kallstrom@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Välkommen till min sida! Jag heter Emma Källström och här presenteras mina examinationsuppgifter,
-  ett par blogginlägg och en möjlighet för dig att kommentera och diskutera
-  på min sida. Blogposts will be written in english.
+  Welcome to my webpage! My name is Emma Källström and here I will present
+  some of my projects from my studies at Linnaeus University in Kalmar, Sweden.
+
+  I've worked frontend, backend and fullstack. I prefer working with JavaScript and PHP,
+  but I also know C#. Worked a lot with NodeJS and more and more with React.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  codesis
