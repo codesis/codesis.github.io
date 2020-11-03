@@ -1,0 +1,84 @@
+header:
+    title: Welcome to my portfolio!
+    text: It's Nice To Meet You
+    button: Tell Me More
+    buttonlink: "#development" # "#{section}" or "URL/page link"
+
+services:
+    title: "Development"
+    text: "I have knowledge in different areas of software development"
+    section: development
+    list:
+      - title: "Front End Developing"
+        desc: "Have experience in developing for front-end with tools such as JavaScript, HTML and CSS."
+        icon:  fas fa-laptop-code #find more at https://fontawesome.com/icons
+      - title: "Back End Developing"
+        desc: "Have experience in developing for back-end with PHP, C#, MySQL and NodeJS."
+        icon: fas fa-terminal      
+      - title: "Full Stack Developing"
+        desc: "Have experience in developing full-stack, I developed a MERN website during a school project."
+        icon: far fa-keyboard
+
+portfolio:
+    title: "Portfolio"
+    text: "Lorem ipsum dolor sit amet consectetur."
+    section: portfolio
+    
+
+timeline:
+    title: "About me" 
+    text: "My journey to this day as a developer"
+    section: timeline
+    events:
+      - title: "Childhood"
+        year: "1998-2014"
+        desc: "I can't be certain on which year I first sat down to play with either my big sister's gameboy or sneaking to play on my big brother's nintendo 64, but perhaps I was 4 years old. In either way, I've always loved technology and my friends and family has always called me the tech nerd, she who can solve anything! (Well, lets be humble and say: any of their small problems)"
+        image: assets/img/timeline/1.jpg
+        alt: 
+        align: left
+      - title: "A dream that was not mine"
+        year: "2015-2017"
+        desc: "In January 2015 I started studying to become a nurse. However, as I had my first child Midas in 2017, I realised this was not who I was and this was not my dream. So, after almost 5 (of 6) semesters in nursing school, I quit. And it felt just right."
+        image: assets/img/timeline/2.jpg
+        alt: 
+        align: right
+      - title: "Beginning of my journey to become a developer"
+        year: "August 2018-June 2020"
+        desc: "Finally! I realised my true dream was in tech. Of course, my friends and family would say. How could I not see this before? But later is better than never! Started studying web developing in August 2018, and took my degree in computer science in June 2020."
+        image: assets/img/timeline/3.jpg
+        alt: image alt text
+        #align: #default is left       
+      - title: "Today"
+        year: "2020-"
+        desc: "I now feel at home but far from complete with the knowledge I have for developing and computer science. I want to learn more and get a better developer than I was yesterday, so that I can create a better product for tomorrow. What may the future hold?"
+        image: assets/img/timeline/4.jpg
+        alt: 
+        align: right
+    end: "Be Part <br> of My <br> Story!"
+
+about:
+    title: "About Us"
+    text: "our story"
+    section: about
+              
+contact:
+    title: "Contact Me"
+    text: "Send a message or call 0763-232001"
+    section: contact
+    
+footer:
+    legal: "Privacy Policy"
+    social:
+      - url: https://twitter.com
+        icon: "fab fa-twitter"  
+      - url: https://facebook.com
+        icon: "fab fa-facebook-f"
+      - url: https://linkedin.com
+        icon: "fab fa-linkedin-in"
+      - url: https://github.com/raviriley/agency-jekyll-theme
+        icon: "fab fa-github"
+      - url: https://instagram.com
+        icon: "fab fa-instagram"
+
+
+# {{ site.data.sitetext.ex.ex | markdownify | default: example }}

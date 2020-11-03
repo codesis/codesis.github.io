@@ -1,8 +1,0 @@
-/* AUTHOR */
-Emma Källström
-Contact: emma.kallstrom@protonmail.com
-Alias: codesis
-From: Kalmar, Sweden
-
-/* SITE */
-Language: English / Swedish

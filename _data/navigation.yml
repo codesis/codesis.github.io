@@ -1,0 +1,15 @@
+nav:
+  - title: "Software development"
+    section: development
+
+  - title: "Portfolio"
+    section: portfolio
+    
+  - title: "About"
+    section: timeline
+
+  - title: "Contact"
+    section: contact
+
+  - title: "Theme Source"
+    url: https://github.com/raviriley/agency-jekyll-theme/

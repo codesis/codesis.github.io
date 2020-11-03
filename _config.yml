@@ -1,52 +1,37 @@
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# which you are expected to set up once and rarely edit after that.
+# This file is *NOT* reloaded automatically when you use 'bundle exec jekyll serve'. 
+# If you change this file, please restart the server process.
 
 # Site settings
-# These are used to personalize your new site. If you look in the HTML files,
+# are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Codesis
-email: emma.kallstrom@protonmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my webpage! My name is Emma Källström and here I will present
-  some of my projects from my studies at Linnaeus University in Kalmar, Sweden.
 
-  I've worked frontend, backend and fullstack. I prefer working with JavaScript and PHP,
-  but I also know C#. Worked a lot with NodeJS and more and more with React.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  codesis
-instagram_username: emmasenkla
-linkedin_username: emma-källström
+#theme: jekyll-agency
+remote_theme: raviriley/agency-jekyll-theme
 
-# Build settings
+url    : "https://codesis.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/codesis.github.io" # the subpath of your site, e.g. /blog
+
+title      : Emma Källström
+email      : emma.kallstrom@protonmail.com #this is also the email contact forms will go to
+description: "This is my portfolio as a web developer."
+author     : Emma Källström
+# logo:     #optional, defaults to site title
+  # path: assets\img\clients\creative-market.jpg
+  # height: 60 #height in px, defaults to 52px
+
+analytics:
+  google: #Google Analytics tracking code here
+
+collections:
+  portfolio:
+
 markdown: kramdown
-theme: jekyll-agency
-plugins:
-  - jekyll-feed
-# Disqus Comments
-disqus:
-    # Leave shortname blank to disable comments site-wide.
-    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
-    shortname: codesis
-    url: https://codesis.github.io/
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
 
+plugins:
+  - jekyll-remote-theme
