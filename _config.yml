@@ -17,7 +17,7 @@ remote_theme: raviriley/agency-jekyll-theme
 url    : "https://codesis.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/codesis.github.io" # the subpath of your site, e.g. /blog
 
-title      : Emma Källström
+title      : Emma Källström - Developer
 email      : emma.kallstrom@protonmail.com #this is also the email contact forms will go to
 description: "This is my portfolio as a web developer."
 author     : Emma Källström

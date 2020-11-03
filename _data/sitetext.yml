@@ -1,6 +1,6 @@
 header:
     title: Welcome to my portfolio!
-    text: It's Nice To Meet You
+    text: So Nice To Meet You
     button: Tell Me More
     buttonlink: "#development" # "#{section}" or "URL/page link"
 
@@ -33,19 +33,19 @@ timeline:
       - title: "Childhood"
         year: "1998-2014"
         desc: "I can't be certain on which year I first sat down to play with either my big sister's gameboy or sneaking to play on my big brother's nintendo 64, but perhaps I was 4 years old. In either way, I've always loved technology and my friends and family has always called me the tech nerd, she who can solve anything! (Well, lets be humble and say: any of their small problems)"
-        image: assets/img/timeline/1.jpg
+        image: assets/img/timeline/1.png
         alt: 
         align: left
       - title: "A dream that was not mine"
         year: "2015-2017"
         desc: "In January 2015 I started studying to become a nurse. However, as I had my first child Midas in 2017, I realised this was not who I was and this was not my dream. So, after almost 5 (of 6) semesters in nursing school, I quit. And it felt just right."
-        image: assets/img/timeline/2.jpg
+        image: assets/img/timeline/2.png
         alt: 
         align: right
       - title: "Beginning of my journey to become a developer"
         year: "August 2018-June 2020"
         desc: "Finally! I realised my true dream was in tech. Of course, my friends and family would say. How could I not see this before? But later is better than never! Started studying web developing in August 2018, and took my degree in computer science in June 2020."
-        image: assets/img/timeline/3.jpg
+        image: assets/img/timeline/3.png
         alt: image alt text
         #align: #default is left       
       - title: "Today"
@@ -54,7 +54,7 @@ timeline:
         image: assets/img/timeline/4.jpg
         alt: 
         align: right
-    end: "Be Part <br> of My <br> Story!"
+    end: "Be Part <br> of My <br> Future!"
 
 about:
     title: "About Us"
