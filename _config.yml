@@ -18,7 +18,7 @@ url    : "https://codesis.github.io" # the base hostname & protocol for your sit
 baseurl: "/codesis.github.io" # the subpath of your site, e.g. /blog
 
 title      : Emma Källström - Developer
-email      : f/mrgokodv #this is also the email contact forms will go to
+email      : emma.kallstrom@protonmail.com #this is also the email contact forms will go to
 description: "This is my portfolio as a software developer."
 author     : Emma Källström
 # logo:     #optional, defaults to site title
