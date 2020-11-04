@@ -21,7 +21,7 @@ services:
 
 portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Here you may find different kinds of projects I have created, many are from my time studying computer science at Linnaeus University"
     section: portfolio
     
 

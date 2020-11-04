@@ -1,18 +1,21 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
+title: Yahtzee in C#
+subtitle: A rather simple terminal game coded in C#
+image: assets/img/portfolio/01-thumbnail.png
 alt: Shirts on a hanger
 
 caption:
-  title: Threads
-  subtitle: Illustration
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
+  title: Yahtzee in C#
+  subtitle: Simple terminal game in C# 
+  thumbnail: assets/img/portfolio/01-thumbnail.png
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+During my study at Linnaeus University in Kalmar, I had the class 1DV607 - "Objektorienterad analys och design med UML" (Object oriented analysis and design with UML). 
+For this assignment you were supposed to design and code a game of Yahtzee, playable from the terminal. This was a heavy assignment and I was not able to finish all possible 
+possibilites for the game. However it is fully functional and you may find the code here at my GitHub: [Yahtzee](https://github.com/codesis/yahtzee_1dv607)
+
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Date: January 2020
+- Course: 1DV607
+- Category: Object oriented programming
 
