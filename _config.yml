@@ -2,7 +2,7 @@
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that.
-# This file is *NOT* reloaded automatically when you use 'bundle exec jekyll serve'. 
+# This file is *NOT* reloaded automatically when you use 'bundle exec jekyll serve'.
 # If you change this file, please restart the server process.
 
 # Site settings
@@ -14,16 +14,17 @@
 #theme: jekyll-agency
 remote_theme: raviriley/agency-jekyll-theme
 
-url    : "https://codesis.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://codesis.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/codesis.github.io" # the subpath of your site, e.g. /blog
+favicon: /assets/favicon.io
 
-title      : Emma Källström - Developer
-email      : emma.kallstrom@protonmail.com #this is also the email contact forms will go to
+title: Emma Källström - Developer
+email: emma.kallstrom@protonmail.com #this is also the email contact forms will go to
 description: "This is my portfolio as a software developer."
-author     : Emma Källström
+author: Emma Källström
 # logo:     #optional, defaults to site title
-  # path: assets\img\clients\creative-market.jpg
-  # height: 60 #height in px, defaults to 52px
+# path: assets\img\clients\creative-market.jpg
+# height: 60 #height in px, defaults to 52px
 
 analytics:
   google: #Google Analytics tracking code here

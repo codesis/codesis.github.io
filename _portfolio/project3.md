@@ -1,18 +1,19 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Gatsby Christmas Project
+subtitle: Slim, simple gatsby web application dedicated to christmas
 image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-full.jpg
-alt: 
+alt:
 
 caption:
-  title: Finish
-  subtitle: Identity
+  title: Gatsby Christmas
+  subtitle: Slim and simple
   thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+
+This project is not finished but you may follow the progress [here](https://gatsbychristmaswebsite46619.gtsb.io/) on Gatsby Cloud. The goal for this web application is to see a slim and simple webpage dedicated to christmas. Possibility to hear christmas music (through spotify) and view a gallery with christmas images from all around the world. The project will be updated .
 
 {:.list-inline}
-- Date: January 2017
-- Client: Finish
-- Category: Identity
 
+- Date: November 2020-
+- Client: -
+- Category: Gatsby, React
