@@ -6,7 +6,7 @@ alt:
 
 caption:
   title: Let's quiz!
-  subtitle: Small web application quiz
+  subtitle: Small web application quiz written in JS
   thumbnail: assets/img/portfolio/04-thumbnail.png
 ---
 
