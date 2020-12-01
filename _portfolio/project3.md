@@ -6,7 +6,7 @@ alt:
 
 caption:
   title: Gatsby Christmas
-  subtitle: Slim and simple
+  subtitle: Slim and simple (under construction!)
   thumbnail: assets/img/portfolio/03-thumbnail.png
 ---
 
