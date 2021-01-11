@@ -1,19 +1,21 @@
 ---
-title: Gatsby Christmas Project
-subtitle: Slim, simple gatsby web application dedicated to christmas
+title: Snällmat ("Kindfood"), individual project (swedish)
+subtitle: MERN web application for recipes
 image: assets/img/portfolio/03-full.png
 alt:
 
 caption:
-  title: Gatsby Christmas
-  subtitle: Slim and simple (under construction!)
+  title: Snällmat
+  subtitle: MERN web application
   thumbnail: assets/img/portfolio/03-thumbnail.png
 ---
 
-This project is not finished but you may follow the progress [here](https://gatsbychristmaswebsite46619.gtsb.io/) on Gatsby Cloud. The goal for this web application is to see a slim and simple webpage dedicated to christmas. Possibility to hear christmas music (through spotify) and view a gallery with christmas images from all around the world. The project will be remounted on Gatsby Cloud for every commit I make to GitHub. [Here](https://github.com/codesis/gatsby-website) you can view the code on my GitHub.
+This individual project was made with MERN (=MongoDB, ExpressJS, ReactJS, NodeJS). Currently you can view my demo [here](https://youtu.be/W0YHee0P4wk) on YouTube. The application was made specificially for the swedish audience in mind, which is why it's in swedish. My vision was to have a beautiful user experience and to make it on my own without e.g. bootstrap, but my vision was too great and time ran out with the project. So I am not as satisfied with the design and all the functions as I wanted to be (wanted the user to be able to upload an image of the end product of the recipe for example), and some days when I have spare time I try to work on the project again.
+
+You can view the code [here](https://github.com/codesis/1dv430-project).
 
 {:.list-inline}
 
-- Date: November 2020-
-- Client: -
-- Category: Gatsby, React
+- Date: Spring 2019 -
+- Client: 1dv430
+- Category: MERN, React, NodeJS, ExpressJS, MongoDB
